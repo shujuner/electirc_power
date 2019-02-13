@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 archi.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="8.26772in" height="11.6929in"
+		viewBox="0 0 595.276 841.89" xml:space="preserve" color-interpolation-filters="sRGB" class="st16">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {fill:#000000}
+		.st3 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st4 {fill:#000000;font-family:宋体;font-size:1.00001em}
+		.st5 {font-size:1em}
+		.st6 {font-family:Microsoft Sans Serif;font-size:1em}
+		.st7 {marker-start:url(#mrkr13-19);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st8 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.22935779816514}
+		.st9 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st10 {fill:#000000;font-family:宋体;font-size:0.833336em}
+		.st11 {marker-end:url(#mrkr13-27);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st12 {fill:#000000;font-family:宋体;font-size:1.5em}
+		.st13 {fill:#000000;font-family:宋体;font-size:1.16666em}
+		.st14 {font-family:Calibri;font-size:1em}
+		.st15 {marker-end:url(#mrkr13-65);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st16 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend13">
+			<path d="M 3 1 L 0 0 L 3 -1 L 3 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr13-19" class="st8" v:arrowType="13" v:arrowSize="2" v:setback="12.6" refX="12.6" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend13" transform="scale(4.36) "/>
+		</marker>
+		<marker id="mrkr13-27" class="st8" v:arrowType="13" v:arrowSize="2" v:setback="13.08" refX="-13.08" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend13" transform="scale(-4.36,-4.36) "/>
+		</marker>
+		<marker id="mrkr13-65" class="st8" v:arrowType="13" v:arrowSize="2" v:setback="12.6" refX="-12.6" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend13" transform="scale(-4.36,-4.36) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="连接线" v:index="0"/>
+		<v:layer v:name="流程图" v:index="1"/>
+		<g id="group1-1" transform="translate(42.5197,-375.591)" v:mID="1" v:groupContext="group">
+			<v:custProps>
+				<v:cp v:nameU="AssetNumber" v:lbl="资产号" v:prompt="" v:type="0" v:format="" v:sortKey="Asset" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="SerialNumber" v:lbl="序列号" v:prompt="" v:type="0" v:format="" v:sortKey="Asset" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Location" v:lbl="位置" v:prompt="" v:type="0" v:format="" v:sortKey="Asset" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Building" v:lbl="构建" v:prompt="" v:type="0" v:format="" v:sortKey="Asset" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Room" v:lbl="空间" v:prompt="" v:type="0" v:format="" v:sortKey="Asset" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Manufacturer" v:lbl="制造商" v:prompt="" v:type="0" v:format="" v:sortKey="Equipment" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProductNumber" v:lbl="产品编号" v:prompt="" v:type="0" v:format="" v:sortKey="Equipment" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="PartNumber" v:lbl="部件号" v:prompt="" v:type="0" v:format="" v:sortKey="Equipment" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProductDescription" v:lbl="产品说明" v:prompt="" v:type="0" v:format="" v:sortKey="Equipment"
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="NetworkName" v:lbl="网络名称" v:prompt="" v:type="0" v:format="" v:sortKey="Network" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="IPAddress" v:lbl="IP 地址" v:prompt="" v:type="0" v:format="" v:sortKey="Network" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="SubnetMask" v:lbl="子网掩码" v:prompt="" v:type="0" v:format="" v:sortKey="Network" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="AdminInterface" v:lbl="管理接口" v:prompt="" v:type="0" v:format="" v:sortKey="Network" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="NumberofPorts" v:lbl="端口数目" v:prompt="" v:type="0" v:format="" v:sortKey="Network" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="CommunityString" v:lbl="团体字符串" v:prompt="" v:type="0" v:format="" v:sortKey="Network"
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="NetworkDescription" v:lbl="网络说明" v:prompt="" v:type="0" v:format="" v:sortKey="Network"
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="MACAddress" v:lbl="MAC 地址" v:prompt="" v:type="0" v:format="" v:sortKey="Network" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="CPU" v:lbl="CPU" v:prompt="" v:type="0" v:format="" v:sortKey="Workstation" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Memory" v:lbl="内存" v:prompt="" v:type="0" v:format="" v:sortKey="Workstation" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="OperatingSystem" v:lbl="操作系统" v:prompt="" v:type="0" v:format="" v:sortKey="Workstation"
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="HardDriveSize" v:lbl="硬盘容量" v:prompt="" v:type="0" v:format="" v:sortKey="Workstation"
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ShapeClass" v:lbl="ShapeClass" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="true"
+						v:ask="false" v:langID="2052" v:cal="0" v:val="VT4(设备)"/>
+				<v:cp v:nameU="ShapeType" v:lbl="ShapeType" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="true"
+						v:ask="false" v:langID="2052" v:cal="0" v:val="VT4(终端)"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ShapeClass" v:prompt="" v:val="VT0(5):26"/>
+				<v:ud v:nameU="SolSH" v:prompt="" v:val="VT15({BF0433D9-CD73-4EB5-8390-8653BE590246}):41"/>
+				<v:ud v:nameU="visLegendShape" v:prompt="" v:val="VT0(2):26"/>
+			</v:userDefs>
+			<title>终端</title>
+			<g id="shape2-2" v:mID="2" v:groupContext="shape" transform="translate(0,-4.14563)">
+				<title>工作表.2</title>
+				<path d="M67.46 779.31 L4.12 779.31 L4.12 821.58 L67.46 821.58 L67.46 779.31 ZM70.87 841.89 L60.24 828.56 L10.63
+							 828.56 L0 841.89 L70.87 841.89 ZM41 821.58 L29.87 821.58 L29.87 828.56 L41 828.56 L41 821.58 Z"
+						class="st1"/>
+			</g>
+			<g id="shape3-4" v:mID="3" v:groupContext="shape" transform="translate(8.22949,-28.2604)">
+				<title>工作表.3</title>
+				<v:userDefs>
+					<v:ud v:nameU="SurroundingRegionColor" v:prompt="" v:val="VT5(1)"/>
+				</v:userDefs>
+				<path d="M55.21 807.62 L0 807.62 L0 841.89 L55.21 841.89 L55.21 807.62 Z" class="st1"/>
+			</g>
+			<g id="shape4-6" v:mID="4" v:groupContext="shape" transform="translate(9.64422,-6.8964)">
+				<title>工作表.4</title>
+				<v:userDefs>
+					<v:ud v:nameU="SurroundingRegionColor" v:prompt="" v:val="VT5(1)"/>
+				</v:userDefs>
+				<path d="M48.39 836.72 L45.24 836.72 L47.01 838.68 L50.4 838.68 L48.39 836.72 ZM44.83 833.24 L42.12 833.24 L44.01
+							 835.35 L46.99 835.35 L44.83 833.24 ZM43.55 836.72 L40.4 836.72 L41.78 838.68 L45.18 838.68 L43.55 836.72
+							 ZM40.66 833.24 L37.94 833.24 L39.43 835.35 L42.41 835.35 L40.66 833.24 ZM38.7 836.72 L35.55 836.72 L36.56
+							 838.68 L39.96 838.68 L38.7 836.72 ZM36.49 833.24 L33.78 833.24 L34.86 835.39 L37.85 835.39 L36.49 833.24
+							 ZM33.86 836.72 L30.71 836.72 L31.34 838.68 L34.73 838.68 L33.86 836.72 ZM32.38 833.39 L29.64 833.39
+							 L30.28 835.39 L33.27 835.39 L32.38 833.39 ZM29.01 836.72 L25.86 836.72 L26.11 838.68 L29.51 838.68 L29.01
+							 836.72 ZM28.22 833.56 L25.46 833.56 L25.71 835.52 L28.71 835.52 L28.22 833.56 ZM23.98 833.56 L21.23
+							 833.56 L21.1 835.52 L24.1 835.52 L23.98 833.56 ZM24.17 836.72 L21.02 836.72 L20.89 838.68 L24.29 838.68
+							 L24.17 836.72 ZM19.75 833.56 L17 833.56 L16.49 835.52 L19.49 835.52 L19.75 833.56 ZM19.33 836.72 L16.18
+							 836.72 L15.67 838.68 L19.06 838.68 L19.33 836.72 ZM36.6 839.93 L14.38 839.93 L13.8 841.89 L37.56 841.89
+							 L36.6 839.93 ZM15.51 833.56 L12.76 833.56 L11.88 835.52 L14.87 835.52 L15.51 833.56 ZM14.48 836.72 L11.33
+							 836.72 L10.44 838.68 L13.84 838.68 L14.48 836.72 ZM11.28 833.56 L8.53 833.56 L7.26 835.52 L10.26 835.52
+							 L11.28 833.56 ZM9.64 836.72 L6.49 836.72 L5.22 838.68 L8.62 838.68 L9.64 836.72 ZM7.05 833.56 L4.29
+							 833.56 L2.65 835.52 L5.65 835.52 L7.05 833.56 ZM4.79 836.72 L1.64 836.72 L0 838.68 L3.4 838.68 L4.79
+							 836.72 Z" class="st2"/>
+			</g>
+		</g>
+		<g id="shape5-9" v:mID="5" v:groupContext="shape" transform="translate(197.638,-368.504)">
+			<title>矩形</title>
+			<desc>K-means algorithm based on spark</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="799.37" width="113.39" height="85.0394"/>
+			<rect x="0" y="756.85" width="113.386" height="85.0394" class="st3"/>
+			<text x="5.69" y="794.98" class="st4" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>K-means algorithm <tspan
+						x="15.02" dy="1.298em" class="st5">based on </tspan><tspan class="st6" v:langID="2052">spark</tspan> </text>		</g>
+		<g id="shape6-14" v:mID="6" v:groupContext="shape" v:layerMember="0" transform="translate(109.976,-432.283)">
+			<title>动态连接线</title>
+			<desc>require</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="44.5123" cy="827.717" width="50" height="20.0036"/>
+			<path d="M9.45 834.8 L9.81 834.8 L87.66 834.8" class="st7"/>
+			<rect v:rectContext="textBkgnd" x="27.0118" y="821.717" width="35.0011" height="12.0001" class="st9"/>
+			<text x="27.01" y="830.72" class="st10" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>require</text>		</g>
+		<g id="shape7-22" v:mID="7" v:groupContext="shape" v:layerMember="0" transform="translate(109.976,-389.764)">
+			<title>动态连接线.7</title>
+			<desc>result</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="44.5123" cy="843.307" width="50" height="20.0036"/>
+			<path d="M0 834.8 L77.85 834.8" class="st11"/>
+			<rect v:rectContext="textBkgnd" x="29.5118" y="837.307" width="30.0009" height="12.0001" class="st9"/>
+			<text x="29.51" y="846.31" class="st10" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>result</text>		</g>
+		<g id="shape8-30" v:mID="8" v:groupContext="shape" transform="translate(375.591,-375.591)">
+			<title>正方形</title>
+			<desc>spark</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="806.457" width="70.87" height="70.8661"/>
+			<rect x="0" y="771.024" width="70.8661" height="70.8661" class="st3"/>
+			<text x="12.93" y="811.86" class="st12" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>spark</text>		</g>
+		<g id="shape9-33" v:mID="9" v:groupContext="shape" transform="translate(403.937,-496.063)">
+			<title>圆角的矩形</title>
+			<desc>Clustering feature structure</desc>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.20669291886294):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.20669291886294):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.20669291886294):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.20669291886294):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="74.4095" cy="815.781" width="148.82" height="52.2172"/>
+			<path d="M14.88 841.89 L133.94 841.89 A14.8816 14.8816 -180 0 0 148.82 827.01 L148.82 804.55 A14.8816 14.8816 -180 0
+						 0 133.94 789.67 L14.88 789.67 A14.8816 14.8816 -180 0 0 0 804.55 L0 827.01 A14.8816 14.8816 -180 0 0 14.88
+						 841.89 Z" class="st3"/>
+			<text x="11.41" y="811.58" class="st13" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Clustering feature <tspan
+						x="42.91" dy="1.2em" class="st5">structure</tspan></text>		</g>
+		<g id="shape10-37" v:mID="10" v:groupContext="shape" v:layerMember="1" transform="translate(42.5197,-609.449)">
+			<title>缩微胶片</title>
+			<desc>Data flow</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="成本" v:type="7" v:format="@" v:langID="2052"/>
+				<v:cp v:nameU="Duration" v:lbl="持续时间" v:type="2" v:langID="2052"/>
+				<v:cp v:nameU="Resources" v:lbl="资源" v:langID="2052"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="AntiScale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="31.8898" cy="813.543" width="63.78" height="48.189"/>
+			<path d="M0 837.64 L0 789.45 A32.0226 32.0226 -180 0 0 31.89 789.45 A32.0226 32.0226 0 0 1 63.78 789.45 L63.78 837.64
+						 A32.0226 32.0226 -180 0 0 31.89 837.64 A32.0226 32.0226 0 0 1 -0 837.64 Z" class="st3"/>
+			<text x="17.89" y="809.34" class="st13" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Data <tspan
+						x="17.89" dy="1.2em" class="st5">flow</tspan></text>		</g>
+		<g id="shape11-41" v:mID="11" v:groupContext="shape" transform="translate(190.551,-595.276)">
+			<title>矩形.11</title>
+			<desc>Spark streaming</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="799.37" width="113.39" height="85.0394"/>
+			<rect x="0" y="756.85" width="113.386" height="85.0394" class="st3"/>
+			<text x="4.19" y="803.57" class="st13" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Spark streaming</text>		</g>
+		<g id="shape13-44" v:mID="13" v:groupContext="shape" transform="translate(340.157,-595.276)">
+			<title>矩形.13</title>
+			<desc>On-line micro-clustering</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="69.0945" cy="799.37" width="138.19" height="85.0394"/>
+			<rect x="0" y="756.85" width="138.189" height="85.0394" class="st3"/>
+			<text x="44.59" y="795.31" class="st13" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>On-line <v:newlineChar/><tspan
+						x="22.83" dy="1.248em" class="st14">micro</tspan><tspan class="st14">-</tspan><tspan class="st14">clustering </tspan> </text>		</g>
+		<g id="shape15-50" v:mID="15" v:groupContext="shape" v:layerMember="0" transform="translate(106.299,-630.709)">
+			<title>动态连接线.15</title>
+			<path d="M0 834.8 L74.44 834.8" class="st11"/>
+		</g>
+		<g id="shape16-55" v:mID="16" v:groupContext="shape" v:layerMember="0" transform="translate(303.937,-630.709)">
+			<title>动态连接线.16</title>
+			<path d="M0 834.8 L26.41 834.8" class="st11"/>
+		</g>
+		<g id="shape17-60" v:mID="17" v:groupContext="shape" v:layerMember="0" transform="translate(471.26,-637.795)">
+			<title>动态连接线.17</title>
+			<path d="M7.09 841.89 C38.98 841.89 45.29 844.85 51.5 853.34 C59.14 863.79 66.62 882.63 14.75 925.28 L14.47 925.5"
+					class="st15"/>
+		</g>
+		<g id="shape18-66" v:mID="18" v:groupContext="shape" v:layerMember="0" transform="translate(478.346,-496.063)">
+			<title>动态连接线.18</title>
+			<path d="M0 841.89 C-0 863.15 0 898.44 -7.32 914.2 C-11 922.13 -16.53 925.12 -22.1 926.24 L-22.46 926.27" class="st15"/>
+		</g>
+		<g id="shape19-71" v:mID="19" v:groupContext="shape" v:layerMember="0" transform="translate(375.591,-418.11)">
+			<title>动态连接线.19</title>
+			<path d="M0 848.98 L-54.76 848.98" class="st11"/>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,74 @@
+\begin{thebibliography}{10}
+
+\bibitem{DBLP:journals/jea/AckermannMRSLS12}
+Marcel~R. Ackermann, Marcus M{\"{a}}rtens, Christoph Raupach, Kamil Swierkot,
+  Christiane Lammersen, and Christian Sohler.
+\newblock Streamkm++: {A} clustering algorithm for data streams.
+\newblock {\em {ACM} Journal of Experimental Algorithmics}, 17(1), 2012.
+
+\bibitem{DBLP:journals/bioinformatics/BogojeskaAALR08}
+Jasmina Bogojeska, Adrian Alexa, Andr{\'{e}} Altmann, Thomas Lengauer, and
+  J{\"{o}}rg Rahnenf{\"{u}}hrer.
+\newblock Rtreemix: an {R} package for estimating evolutionary pathways and
+  genetic progression scores.
+\newblock {\em Bioinformatics}, 24(20):2391--2392, 2008.
+
+\bibitem{Chen2016Data}
+Wen Chen, Kaile Zhou, Shanlin Yang, and Cheng Wu.
+\newblock Data quality of electricity consumption data in a smart grid
+  environment.
+\newblock {\em Renewable & Sustainable Energy Reviews}, 75, 2016.
+
+\bibitem{DBLP:conf/vldb/2003}
+Johann~Christoph Freytag, Peter~C. Lockemann, Serge Abiteboul, Michael~J.
+  Carey, Patricia~G. Selinger, and Andreas Heuer, editors.
+\newblock {\em {VLDB} 2003, Proceedings of 29th International Conference on
+  Very Large Data Bases, September 9-12, 2003, Berlin, Germany}. Morgan
+  Kaufmann, 2003.
+
+\bibitem{DBLP:journals/aeog/GoldbergsMLE19}
+Grigorijs Goldbergs, Stefan~W. Maier, Shaun~R. Levick, and Andrew Edwards.
+\newblock Limitations of high resolution satellite stereo imagery for
+  estimating canopy height in australian tropical savannas.
+\newblock {\em Int. J. Applied Earth Observation and Geoinformation},
+  75:83--95, 2019.
+
+\bibitem{Hartigan1979Algorithm}
+J.~A. Hartigan and M.~A. Wong.
+\newblock Algorithm as 136: A k-means clustering algorithm.
+\newblock {\em Journal of the Royal Statistical Society}, 28(1):100--108, 1979.
+
+\bibitem{Kranen2011The}
+Philipp Kranen, Ira Assent, Corinna Baldauf, and Thomas Seidl.
+\newblock The clustree: indexing micro-clusters for anytime stream mining.
+\newblock {\em Knowledge & Information Systems}, 29(2):249--272, 2011.
+
+\bibitem{Udommanetanakit2007E}
+Komkrit Udommanetanakit, Thanawin Rakthanmanon, and Kitsana Waiyamai.
+\newblock E-stream: Evolution-based technique for stream clustering.
+\newblock In {\em International Conference on Advanced Data Mining &
+  Applications}, 2007.
+
+\bibitem{Wang2016Pretreatment}
+Hui~Zhong Wang, Ke~Liu, Jia Zhou, and Yue~Feng Wang.
+\newblock Pretreatment of short-term load forecasting based on k-means
+  clustering algorithm.
+\newblock {\em Computer Simulation}, 2016.
+
+\bibitem{Zaharia2010Spark}
+Matei Zaharia, Mosharaf Chowdhury, Michael~J. Franklin, Scott Shenker, and Ion
+  Stoica.
+\newblock Spark: cluster computing with working sets.
+\newblock In {\em Usenix Conference on Hot Topics in Cloud Computing}, 2010.
+
+\bibitem{Zhang:1996:BED:235968.233324}
+Tian Zhang, Raghu Ramakrishnan, and Miron Livny.
+\newblock Birch: An efficient data clustering method for very large databases.
+\newblock {\em SIGMOD Rec.}, 25(2):103--114, June 1996.
+
+\bibitem{Zhao2016Load}
+W.~Zhao and Y.~Gong.
+\newblock Load curve clustering based on kernel k-means.
+\newblock {\em Electric Power Automation Equipment}, 2016.
+
+\end{thebibliography}
